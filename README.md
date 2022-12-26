@@ -8,11 +8,11 @@ Check if the list is contain a specific item.
 Get index of specific item.
 
 ## Sorting Algos
-### [Bubble](https://github.com/decodevM/algorithms/blob/main/lib/sorting.dart#L13)
-### [Selection](https://github.com/decodevM/algorithms/blob/main/lib/sorting.dart#L32)
-### [Insertion](https://github.com/decodevM/algorithms/blob/main/lib/sorting.dart#L49)
-### [Merge](https://github.com/decodevM/algorithms/blob/main/lib/sorting.dart#L88)
-### [Quick](https://github.com/decodevM/algorithms/blob/main/lib/sorting.dart#L118)
-### [Radix](https://github.com/decodevM/algorithms/blob/main/lib/sorting.dart#L153)
+### [Bubble](https://github.com/decodevM/algorithms/blob/main/lib/sort.dart#L13)
+### [Selection](https://github.com/decodevM/algorithms/blob/main/lib/sort.dart#L32)
+### [Insertion](https://github.com/decodevM/algorithms/blob/main/lib/sort.dart#L49)
+### [Merge](https://github.com/decodevM/algorithms/blob/main/lib/sort.dart#L88)
+### [Quick](https://github.com/decodevM/algorithms/blob/main/lib/sort.dart#L118)
+### [Radix](https://github.com/decodevM/algorithms/blob/main/lib/sort.dart#L153)
 
 
