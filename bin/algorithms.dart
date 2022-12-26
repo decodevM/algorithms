@@ -1,6 +1,6 @@
 
 import 'package:algorithms/search.dart';
-import 'package:algorithms/sorting.dart';
+import 'package:algorithms/sort.dart';
 
 void main(){
   List list = [72,1,341,32,4,52,213,402,3442,12,345,21,23,45,623,134,56,231,11,343,2,6,878,3,1122,322];
