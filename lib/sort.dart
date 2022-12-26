@@ -1,6 +1,6 @@
 import 'dart:math' as math;
 
-class Sorting{
+class Sort{
    static void _swap(List list, int i, int j){
     // Swap without using third party
     // list[i] += list[j];
