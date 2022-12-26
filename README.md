@@ -1,9 +1,9 @@
 # Algorithms
-## [Linear Searching Algo](https://github.com/decodevM/algorithms/blob/main/lib/searching.dart)
+## [Linear Searching Algo](https://github.com/decodevM/algorithms/blob/main/lib/search.dart)
 Check if the list is contain a specific item.
 Get index of specific item.
 
-## [Binary Searching Algo](https://github.com/decodevM/algorithms/blob/main/lib/searching.dart)
+## [Binary Searching Algo](https://github.com/decodevM/algorithms/blob/main/lib/search.dart)
 Check if the list is contain a specific item.
 Get index of specific item.
 
