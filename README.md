@@ -1,5 +1,5 @@
 # Algorithms
-## [Linear Searching Algo](https://github.com/decodevM/algorithms/blob/main/lib/search.dart)
+## [Linear Searching Algo](https://github.com/decodevM/algorithms/blob/main/lib/search.dart#L50)
 Check if the list is contain a specific item.
 Get index of specific item.
 
